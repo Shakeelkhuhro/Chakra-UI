@@ -1,4 +1,4 @@
-# Project Name
+# Blogging Webiste using Chakra UI
 
 This project is a React application that includes several components for a shopping and blogging website. Below is a description of each folder and component in the project.
 
